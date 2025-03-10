@@ -22,6 +22,4 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehakfaheem&theme=radical)
 
 ## 💬 Connect with Me
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mehkiii)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
