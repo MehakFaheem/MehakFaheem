@@ -17,9 +17,9 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ## 📊 GitHub Stats
-![Mehkiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehkiii&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehkiii&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehkiii&theme=radical)
+![MehakFaheem's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehakfaheem&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehakfaheem&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehakfaheem&theme=radical)
 
 ## 💬 Connect with Me
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)
