@@ -1,4 +1,6 @@
-# Hello, I am <span style="color: blue;">Mehkiii</span>! 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=50&lines=Hello%2C+I+am+Mehkiii+%F0%9F%91%8B" alt="Typing SVG" />
+</h1>
 
 ## About Me
 - 🎓 Learning Next.js, React, Tailwind, and TypeScript
@@ -16,6 +18,8 @@
 
 ## 📊 GitHub Stats
 ![Mehkiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehkiii&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehkiii&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehkiii&theme=radical)
 
 ## 💬 Connect with Me
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)
