@@ -5,7 +5,6 @@
 ## About Me
 - 🎓 Learning Next.js, React, Tailwind, and TypeScript
 - 🚀 Passionate about Web Development & AI
-- 🎨 Love creating aesthetic and Islamic content on YouTube
 
 ## 🚀 Technologies & Tools
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -21,10 +20,9 @@
 - Enhancing my skills in Next.js and TypeScript
 - Experimenting with AI-driven web applications
 
-## 🎯 Fun Facts
-- ✨ I love crafting beautiful UI/UX designs
-- 🎬 I create Islamic and aesthetic content on YouTube
-- 🎨 Used to be good at art and drawings
-
+## 🎯 Fun Fact
+- ✨ I gave up drawing, but turns out, web design is just art in disguise. 🎨💻
 ## 💬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/syntax.js)
+
